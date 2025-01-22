@@ -174,3 +174,6 @@ async def submit_report(context: CallbackContext) -> None:
 
                 # Wait for the specified delay
                 time.sleep(context.user_data['delayTelegram Bot Reporting Setup
+
+
+Add command to telegram bot to set single userstring or multiple and which want to report and set delay timer to gab between each report set and a report start cmd
